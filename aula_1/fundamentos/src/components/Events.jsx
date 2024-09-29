@@ -220,7 +220,7 @@ function ValidatedForm() {
       alert('Formulário enviado com sucesso!');
 
       // Zera o valor do campo nome
-      setNome('');  // Limpa o campo após o envio
+      setNome('');  // Limpa o campo após o envio//////////////////++++
     }
   };
 
